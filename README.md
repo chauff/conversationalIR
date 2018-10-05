@@ -13,3 +13,6 @@
 
 ## Tooling
 - [Script to find SOTA results](https://huyenchip.com/2018/10/04/sotawhat.html)
+
+## Other sites
+- [NLP Progress](http://nlpprogress.com/) (many tasks and resources)
