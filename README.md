@@ -1,4 +1,4 @@
-# Datasets and benchmarks
+# Datasets and benchmarks relevant for conversational search
 
 - [QuAC](http://quac.ai/)
 - [CoQA](https://stanfordnlp.github.io/coqa/)
