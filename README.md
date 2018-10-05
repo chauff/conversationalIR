@@ -1,4 +1,6 @@
-# Datasets and benchmarks relevant for conversational search
+# Conversational IR
+
+## Relevant datasets and benchmarks
 
 - [QuAC](http://quac.ai/)
 - [CoQA](https://stanfordnlp.github.io/coqa/)
@@ -8,3 +10,6 @@
 - [MSDialog](https://ciir.cs.umass.edu/downloads/msdialog/)
 - [Ubuntu Dialogue Corpus](https://arxiv.org/abs/1506.08909)
 - [MultiWOZ](https://arxiv.org/abs/1810.00278)
+
+## Tooling
+- [Script to find SOTA results](https://huyenchip.com/2018/10/04/sotawhat.html)
