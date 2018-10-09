@@ -10,6 +10,7 @@
 - [MSDialog](https://ciir.cs.umass.edu/downloads/msdialog/)
 - [Ubuntu Dialogue Corpus](https://arxiv.org/abs/1506.08909)
 - [MultiWOZ](https://arxiv.org/abs/1810.00278), [corpus](http://dialogue.mi.eng.cam.ac.uk/index.php/corpus/)
+- [Swag](https://rowanzellers.com/swag/)
 
 ## Tooling
 - [Script to find SOTA results](https://huyenchip.com/2018/10/04/sotawhat.html)
