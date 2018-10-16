@@ -12,6 +12,7 @@
 - [MultiWOZ](https://arxiv.org/abs/1810.00278), [corpus](http://dialogue.mi.eng.cam.ac.uk/index.php/corpus/)
 - [Swag](https://rowanzellers.com/swag/)
 - [Different relevant challenges at AllenAI](https://leaderboard.allenai.org/)
+- [MS Marco](http://www.msmarco.org/) (will have a passage ranking task soon)
 
 ## Tooling
 - [Script to find SOTA results](https://huyenchip.com/2018/10/04/sotawhat.html)
