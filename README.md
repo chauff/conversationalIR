@@ -13,7 +13,7 @@
 - [Swag](https://rowanzellers.com/swag/)
 - [Different relevant challenges at AllenAI](https://leaderboard.allenai.org/)
 - [MS Marco](http://www.msmarco.org/) (will have a passage ranking task soon)
-
+- https://pinafore.github.io/qanta-leaderboard/
 ## Tooling
 - [Script to find SOTA results](https://huyenchip.com/2018/10/04/sotawhat.html)
 
