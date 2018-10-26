@@ -37,3 +37,4 @@
 ## Relevant workshops
 - [Search-oriented conversational AI @EMNLP 2018](https://scai.info/)
 - [Conversational Approaches to IR @SIGIR 2018](https://sites.google.com/view/cair-ws/cair-2018)
+- [Conversational Approaches to IR @SIGIR 2017](https://sites.google.com/view/cair-ws/cair-2017)
