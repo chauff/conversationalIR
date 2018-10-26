@@ -20,6 +20,7 @@
   - "A dataset containing almost 1 million **multi-turn dialogues**, with a total of over 7 million utterances and 100 million words."
 - [MultiWOZ](http://dialogue.mi.eng.cam.ac.uk/index.php/corpus/): Multi-domain Wizard-of-Oz dataset
   - "Multi-Domain Wizard-of-Oz dataset (MultiWOZ), a fully-labeled collection of human-human written **conversations** spanning over multiple domains and topics."
+- [Frames](https://datasets.maluuba.com/Frames): "The 1300+ dialogues in Frames were collected in a Wizard-of-Oz fashion. Two humans talked to each other via a chat interface. One was playing the role of the user and the other one was playing the role of the conversational agent. We call the latter a wizard as a reference to the Wizard of Oz, the man behind the curtain. The wizards had access to a database of 250+ packages, each composed of a hotel and round-trip flights. We gave users a few constraints for each dialogue and we asked them to find the best deal."
 
 ## Non-relevant but interesting datasets
 - [Spider](https://yale-lily.github.io/spider): Yale Semantic Parsing and Text-to-SQL Challenge
