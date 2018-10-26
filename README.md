@@ -33,3 +33,6 @@
 
 ## Other sites
 - [NLP Progress](http://nlpprogress.com/) (many tasks and resources)
+
+## Relevant workshops
+- [Search-oriented conversational AI @EMNLP 2018](https://scai.info/)
