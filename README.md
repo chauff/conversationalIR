@@ -24,6 +24,7 @@
   - "The 1369 dialogues in Frames were collected in a Wizard-of-Oz fashion. Two humans talked to each other via a chat interface. One was playing the role of the user and the other one was playing the role of the conversational agent. We call the latter a wizard as a reference to the Wizard of Oz, the man behind the curtain. The wizards had access to a database of 250+ packages, each composed of a hotel and round-trip flights. We gave users a few constraints for each dialogue and we asked them to find the best deal."
 - [Wizard of Wikipedia](https://openreview.net/forum?id=r1l73iRqKm) - not yet released as dataset, but will be soon (as anounced at EMNLP 2018).
   - "To that end we collect and release a large dataset with **conversations** directly grounded with knowledge retrieved from Wikipedia."
+- [TREC 2019 Conversational Search task](http://treccast.ai/)
 
 ## Non-relevant but interesting datasets
 - [Spider](https://yale-lily.github.io/spider): Yale Semantic Parsing and Text-to-SQL Challenge
