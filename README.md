@@ -22,7 +22,7 @@
   - "Multi-Domain Wizard-of-Oz dataset (MultiWOZ), a fully-labeled collection of human-human written **conversations** spanning over multiple domains and topics."
 - [Frames](https://datasets.maluuba.com/Frames): Complex conversations and decision-making
   - "The 1369 dialogues in Frames were collected in a Wizard-of-Oz fashion. Two humans talked to each other via a chat interface. One was playing the role of the user and the other one was playing the role of the conversational agent. We call the latter a wizard as a reference to the Wizard of Oz, the man behind the curtain. The wizards had access to a database of 250+ packages, each composed of a hotel and round-trip flights. We gave users a few constraints for each dialogue and we asked them to find the best deal."
-- [Wizard of Wikipedia](https://openreview.net/forum?id=r1l73iRqKm): **conversations** grounded with Wikipedia knowledge
+- [Wizard of Wikipedia](https://openreview.net/forum?id=r1l73iRqKm): 22,311 **conversations** grounded with Wikipedia knowledge
   - "We consider the following general open-domain dialogue setting:  two participants engage in chit-chat, with one of the participants selecting a beginning topic, and during the conversation the topic is allowed to naturally change.  The two participants, however, are not quite symmetric:  one will play the role of a knowledgeable expert (which we refer to as the wizard) while the other is a curious
 learner (the apprentice)."
   - "... first crowd-sourcing 1307 diverse discussion topics and then conversations involving 201,999 utterances about them"
