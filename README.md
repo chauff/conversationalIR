@@ -12,6 +12,7 @@
   - "A question answering dataset composed of questions from Quizbowl - a trivia game that is challenging for both humans and machines. Each question contains 4-5 pyramidally arranged clues: obscure ones at the beginning and obvious ones at the end."
 - [MSDialog](https://ciir.cs.umass.edu/downloads/msdialog/)
   - "The MSDialog dataset is a labeled **dialog dataset** of question answering (QA) interactions between information seekers and answer providers from an online forum on Microsoft products."
+  - "The annotated dataset contains 2,199 multi-turn dialogs with 10,020 utterances."
 - :whale2: [ShARC](https://sharc-data.github.io/index.html): Shaping Answers with Rules through **Conversation**
   - "Most work in machine reading focuses on question answering problems where the answer is directly expressed in the text to read. However, many real-world question answering problems require the reading of text not because it contains the literal answer, but because it contains a recipe to derive an answer together with the reader's background knowledge. We formalise this task and develop a crowd-sourcing strategy to collect 37k task instances."
 - [ Training Millions of Personalized Dialogue Agents](https://arxiv.org/abs/1809.01984)
