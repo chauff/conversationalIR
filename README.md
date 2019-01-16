@@ -44,7 +44,9 @@ learner (the apprentice)."
 - [NLP Progress](http://nlpprogress.com/) (many tasks and resources)
 
 ## Relevant workshops
-- [Search-oriented conversational AI @EMNLP 2018](https://scai.info/)
-- [Search-oriented conversational AI @ICTIR 2017](http://sigir.org/ictir2017/sessions/search-oriented-conversational-ai-scai/)
-- [Conversational Approaches to IR @SIGIR 2018](https://sites.google.com/view/cair-ws/cair-2018)
+- [Search-oriented conversational AI @ICTIR 2017](https://scai.info/2017/)
 - [Conversational Approaches to IR @SIGIR 2017](https://sites.google.com/view/cair-ws/cair-2017)
+- [Search-oriented conversational AI @EMNLP 2018](https://scai.info/2018/)
+- [Conversational Approaches to IR @SIGIR 2018](https://sites.google.com/view/cair-ws/cair-2018)
+- [NLP for Conversational AI @ACL 2019](https://sites.google.com/view/nlp4convai/)
+- [Search-Oriented Conversational AI @WWW 2019](https://scai.info/)
