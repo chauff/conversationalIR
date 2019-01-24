@@ -2,6 +2,8 @@
 
 ## (Semi-)Relevant datasets and benchmarks
 
+- [Natural Questions](https://ai.google.com/research/NaturalQuestions): Google's latest question answering dataset.
+  - "Natural Questions contains 307K training examples, 8K examples for development, and a further 8K examples for testing."
 - :hatched_chick: [QuAC](http://quac.ai/): Question Answering in Context
   - "A dataset for modeling, understanding, and participating in **information seeking dialog**. Data instances consist of an interactive dialog between two crowd workers: (1) a student who poses a sequence of freeform questions to learn as much as possible about a hidden Wikipedia text, and (2) a teacher who answers the questions by providing short excerpts (spans) from the text."
 - :leaves: [CoQA](https://stanfordnlp.github.io/coqa/): A Conversational Question Answering Challenge
