@@ -53,4 +53,5 @@ learner (the apprentice)."
 - [Search-oriented conversational AI @EMNLP 2018](https://scai.info/2018/)
 - [Conversational Approaches to IR @SIGIR 2018](https://sites.google.com/view/cair-ws/cair-2018)
 - [NLP for Conversational AI @ACL 2019](https://sites.google.com/view/nlp4convai/)
-- [Search-Oriented Conversational AI @WWW 2019](https://scai.info/)
+- [Search-Oriented Conversational AI @WWW 2019](https://scai.info/www2019/)
+- [Search-Oriented Conversational AI @IJCAI 2019](https://scai.info/ijcai2019/)
