@@ -55,3 +55,4 @@ learner (the apprentice)."
 - [NLP for Conversational AI @ACL 2019](https://sites.google.com/view/nlp4convai/)
 - [Search-Oriented Conversational AI @WWW 2019](https://scai.info/www2019/)
 - [Search-Oriented Conversational AI @IJCAI 2019](https://scai.info/ijcai2019/)
+- [Conversational Interaction Systems @SIGIR 2019](https://sites.google.com/view/wcis/home)
