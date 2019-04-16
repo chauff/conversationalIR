@@ -2,6 +2,8 @@
 
 ## (Semi-)Relevant datasets and benchmarks
 
+- [The TREC Conversational Assistance Track (CAsT)](http://www.treccast.ai/)
+  - Information needs created via crowdsourcing: 50-100 topics with manually defined trajectories; conversations evolve across realistic facets for ~10 turns.
 - [Natural Questions](https://ai.google.com/research/NaturalQuestions): Google's latest question answering dataset.
   - "Natural Questions contains 307K training examples, 8K examples for development, and a further 8K examples for testing."
   - "NQ is the first dataset to use naturally occurring queries and focus on finding answers by reading an entire page, rather than extracting answers from a short paragraph. To create NQ, we started with real, anonymized, aggregated queries that users have posed to Google's search engine. We then ask annotators to find answers by reading through an entire Wikipedia page as they would if the question had been theirs. Annotators look for both long answers that cover all of the information required to infer the answer, and short answers that answer the question succinctly with the names of one or more entities. The quality of the annotations in the NQ corpus has been measured at 90% accuracy."
