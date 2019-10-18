@@ -48,6 +48,7 @@ learner (the apprentice)."
 
 ## Other sites
 - [NLP Progress](http://nlpprogress.com/) (many tasks and resources)
+- [Papers with code](https://paperswithcode.com/)
 
 ## Relevant workshops
 - [Search-oriented conversational AI @ICTIR 2017](https://scai.info/2017/)
