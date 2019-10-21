@@ -60,4 +60,6 @@ learner (the apprentice)."
 - [Search-Oriented Conversational AI @WWW 2019](https://scai.info/www2019/)
 - [Search-Oriented Conversational AI @IJCAI 2019](https://scai.info/ijcai2019/)
 - [Conversational Interaction Systems @SIGIR 2019](https://sites.google.com/view/wcis/home)
+- [Conversational Agents: Acting on the Wave of Research and Development @ CHI 2019](https://convagents.org/)
 - [Conversational Systems for E-Commerce Recommendations and Search @ WSDM 2020](https://wsdm-converse.github.io/)
+
