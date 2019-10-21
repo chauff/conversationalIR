@@ -50,7 +50,7 @@ learner (the apprentice)."
 - [NLP Progress](http://nlpprogress.com/) (many tasks and resources)
 - [Papers with code](https://paperswithcode.com/)
 
-## Relevant workshops
+## Relevant workshops and conferences
 - [Search-oriented conversational AI @ICTIR 2017](https://scai.info/2017/)
 - [Conversational Approaches to IR @SIGIR 2017](https://sites.google.com/view/cair-ws/cair-2017)
 - [Talking with Conversational Agents in Collaborative Action @ CSCW 2017](https://talkingwithagents.wordpress.com/)
@@ -62,5 +62,6 @@ learner (the apprentice)."
 - [Conversational Interaction Systems @SIGIR 2019](https://sites.google.com/view/wcis/home)
 - [Conversational Agents: Acting on the Wave of Research and Development @ CHI 2019](https://convagents.org/)
 - [Workshop on User-Aware Conversational Agents @ IUI 2019](https://www.research.ibm.com/haifa/Workshops/user2agent2019/)
+- [1st International Conference on Conversational User Interfaces](http://cui2019.com/)
 - [Conversational Systems for E-Commerce Recommendations and Search @ WSDM 2020](https://wsdm-converse.github.io/)
 
