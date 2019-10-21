@@ -53,6 +53,7 @@ learner (the apprentice)."
 ## Relevant workshops
 - [Search-oriented conversational AI @ICTIR 2017](https://scai.info/2017/)
 - [Conversational Approaches to IR @SIGIR 2017](https://sites.google.com/view/cair-ws/cair-2017)
+- [Talking with Conversational Agents in Collaborative Action @ CSCW 2017](https://talkingwithagents.wordpress.com/)
 - [Search-oriented conversational AI @EMNLP 2018](https://scai.info/2018/)
 - [Conversational Approaches to IR @SIGIR 2018](https://sites.google.com/view/cair-ws/cair-2018)
 - [NLP for Conversational AI @ACL 2019](https://sites.google.com/view/nlp4convai/)
