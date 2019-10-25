@@ -2,7 +2,8 @@
 
 ## (Semi-)Relevant datasets and benchmarks
 
-- [Another overview page of conversational datasets](https://github.com/PolyAI-LDN/conversational-datasets)
+- [PolyAI](https://github.com/PolyAI-LDN/conversational-datasets)
+  - "A collection of large datasets for conversational response selection."
 - [The TREC Conversational Assistance Track (CAsT)](http://www.treccast.ai/)
   - Information needs created via crowdsourcing: 50-100 topics with manually defined trajectories; conversations evolve across realistic facets for ~10 turns.
 - [Natural Questions](https://ai.google.com/research/NaturalQuestions): Google's latest question answering dataset.
