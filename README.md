@@ -4,6 +4,7 @@
 
 - [PolyAI](https://github.com/PolyAI-LDN/conversational-datasets)
   - "A collection of large datasets for conversational response selection."
+  - "This repository provides tools to create reproducible datasets for training and evaluating models of conversational response. This includes: Reddit (3.7 billion comments), OpenSubtitles (400 million lines from movie and television subtitles) and Amazon QA (3.6 million question-response pairs in the context of Amazon products)"
 - [The TREC Conversational Assistance Track (CAsT)](http://www.treccast.ai/)
   - Information needs created via crowdsourcing: 50-100 topics with manually defined trajectories; conversations evolve across realistic facets for ~10 turns.
 - [Natural Questions](https://ai.google.com/research/NaturalQuestions): Google's latest question answering dataset.
