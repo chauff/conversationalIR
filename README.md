@@ -2,6 +2,7 @@
 
 ## (Semi-)Relevant datasets and benchmarks
 
+- [Another overview page of conversational datasets](https://github.com/PolyAI-LDN/conversational-datasets)
 - [The TREC Conversational Assistance Track (CAsT)](http://www.treccast.ai/)
   - Information needs created via crowdsourcing: 50-100 topics with manually defined trajectories; conversations evolve across realistic facets for ~10 turns.
 - [Natural Questions](https://ai.google.com/research/NaturalQuestions): Google's latest question answering dataset.
@@ -54,16 +55,19 @@ learner (the apprentice)."
 - [Search-oriented conversational AI @ ICTIR 2017](https://scai.info/2017/)
 - [Conversational Approaches to IR @ SIGIR 2017](https://sites.google.com/view/cair-ws/cair-2017)
 - [Talking with Conversational Agents in Collaborative Action @ CSCW 2017](https://talkingwithagents.wordpress.com/)
+- [1st Conversational AI: Today's Practice and Tomorrow's Potential @ NeurIPS 2017](http://alborz-geramifard.com/workshops/nips17-Conversational-AI/Main.html)
 - [Search-oriented conversational AI @ EMNLP 2018](https://scai.info/2018/)
 - [Conversational Approaches to IR @ SIGIR 2018](https://sites.google.com/view/cair-ws/cair-2018)
+- [2nd Conversational AI: Today's Practice and Tomorrow's Potential @ NeurIPS 2018](http://alborz-geramifard.com/workshops/nips18-Conversational-AI/Main.html)
 - [NLP for Conversational AI @ ACL 2019](https://sites.google.com/view/nlp4convai/)
 - [Search-Oriented Conversational AI @ WWW 2019](https://scai.info/www2019/)
 - [Search-Oriented Conversational AI @ IJCAI 2019](https://scai.info/ijcai2019/)
 - [Conversational Interaction Systems @ SIGIR 2019](https://sites.google.com/view/wcis/home)
 - [Conversational Agents: Acting on the Wave of Research and Development @ CHI 2019](https://convagents.org/)
 - [Workshop on User-Aware Conversational Agents @IUI 2019](https://www.research.ibm.com/haifa/Workshops/user2agent2019/)
-- [1st International Conference on Conversational User Interfaces](http://cui2019.com/)
-- [Dagstuhl Seminar Conversational Search](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19461)
+- [1st International Conference on Conversational User Interfaces 2019](http://cui2019.com/)
+- [Dagstuhl 2019 Seminar Conversational Search](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19461)
+- [3rd Conversational AI: Today's Practice and Tomorrow's Potential @ NeurIPS 2019](http://alborz-geramifard.com/workshops/neurips19-Conversational-AI/Main.html)
 - [Conversational Systems for E-Commerce Recommendations and Search @ WSDM 2020](https://wsdm-converse.github.io/)
 - 3rd International Workshop on Conversational Approaches to Information Retrieval (CAIR) @ CHIIR 2020
 - Search-Oriented Conversational AI @ EMNLP 2020
