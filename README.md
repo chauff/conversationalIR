@@ -63,7 +63,9 @@ learner (the apprentice)."
 - [Conversational Agents: Acting on the Wave of Research and Development @ CHI 2019](https://convagents.org/)
 - [Workshop on User-Aware Conversational Agents @IUI 2019](https://www.research.ibm.com/haifa/Workshops/user2agent2019/)
 - [1st International Conference on Conversational User Interfaces](http://cui2019.com/)
+- [Dagstuhl Seminar Conversational Search](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19461)
 - [Conversational Systems for E-Commerce Recommendations and Search @ WSDM 2020](https://wsdm-converse.github.io/)
 - 3rd International Workshop on Conversational Approaches to Information Retrieval (CAIR) @ CHIIR 2020
 - Search-Oriented Conversational AI @ EMNLP 2020
+
 
