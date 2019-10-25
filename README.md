@@ -64,4 +64,5 @@ learner (the apprentice)."
 - [Workshop on User-Aware Conversational Agents @ IUI 2019](https://www.research.ibm.com/haifa/Workshops/user2agent2019/)
 - [1st International Conference on Conversational User Interfaces](http://cui2019.com/)
 - [Conversational Systems for E-Commerce Recommendations and Search @ WSDM 2020](https://wsdm-converse.github.io/)
+- 3rd International Workshop on Conversational Approaches to Information Retrieval (CAIR) @ CHIIR 2020
 
