@@ -64,6 +64,7 @@ learner (the apprentice)."
 - [TREC 2019 Conversational Search task](http://treccast.ai/)
 
 ## Non-relevant but interesting datasets
+- [CoSQL](https://yale-lily.github.io/cosql): CoSQL is a corpus for building cross-domain Conversational text-to-SQL systems.
 - [Spider](https://yale-lily.github.io/spider): Yale Semantic Parsing and Text-to-SQL Challenge
   - "Spider is a large-scale complex and cross-domain semantic parsing and text-to-SQL dataset annotated by 11 Yale students. The goal of the Spider challenge is to develop natural language interfaces to cross-domain databases. It consists of 10,181 questions and 5,693 unique complex SQL queries on 200 databases with multiple tables covering 138 different domains."
 - [Swag](https://rowanzellers.com/swag/): A Large-Scale Adversarial Dataset for Grounded Commonsense Inference 
