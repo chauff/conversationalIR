@@ -19,6 +19,7 @@ Publication venues, datasets and other things.
 - [1st International Conference on Conversational User Interfaces 2019](http://cui2019.com/)
 - [Dagstuhl 2019 Seminar Conversational Search](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19461)
 - [3rd Conversational AI: Today's Practice and Tomorrow's Potential @ NeurIPS 2019](http://alborz-geramifard.com/workshops/neurips19-Conversational-AI/Main.html)
+- [user2agent 2019: 1st Workshop on User-Aware Conversational Agents @ IUI 2019](https://www.research.ibm.com/haifa/Workshops/user2agent2019/)
 - [Conversational Systems for E-Commerce Recommendations and Search @ WSDM 2020](https://wsdm-converse.github.io/)
 - 3rd International Workshop on Conversational Approaches to Information Retrieval (CAIR) @ CHIIR 2020
 - Search-Oriented Conversational AI @ EMNLP 2020
