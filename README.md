@@ -15,7 +15,7 @@ Publication venues, datasets and other things.
 - [Search-Oriented Conversational AI @ IJCAI 2019](https://scai.info/ijcai2019/)
 - [Conversational Interaction Systems @ SIGIR 2019](https://sites.google.com/view/wcis/home)
 - [Conversational Agents: Acting on the Wave of Research and Development @ CHI 2019](https://convagents.org/)
-- [1st International Conference on Conversational User Interfaces 2019](http://cui2019.com/)
+- [1st International Conference on Conversational User Interfaces 2019](https://dl.acm.org/doi/proceedings/10.1145/3342775)
 - [Dagstuhl 2019 Seminar Conversational Search](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19461)
 - [3rd Conversational AI: Today's Practice and Tomorrow's Potential @ NeurIPS 2019](http://alborz-geramifard.com/workshops/neurips19-Conversational-AI/Main.html)
 - [user2agent 2019: 1st Workshop on User-Aware Conversational Agents @ IUI 2019](https://www.research.ibm.com/haifa/Workshops/user2agent2019/)
