@@ -2,6 +2,8 @@
 
 Publication venues, datasets and other things.
 
+I made a [brief slide deck with a summary of the workshops](https://docs.google.com/presentation/d/e/2PACX-1vSq69WuoMBqn2lSwHDzpTLieiZkBQuWUd-HqovzbbyHHmLAD9k18Yq-97VaS-lEyQcJk4afvqTj3KLT/pub?start=false&loop=false&delayms=3000) in January 2020.
+
 ## Relevant workshops and conferences
 - [Search-oriented conversational AI @ ICTIR 2017](https://scai.info/2017/)
 - [Conversational Approaches to IR @ SIGIR 2017](https://sites.google.com/view/cair-ws/cair-2017)
