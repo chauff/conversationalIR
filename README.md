@@ -66,7 +66,7 @@ I made a [brief slide deck with a summary of the workshops](https://docs.google.
 learner (the apprentice)."
   - "... first crowd-sourcing 1307 diverse discussion topics and then conversations involving 201,999 utterances about them"
   - Available at http://www.parl.ai/.
-- [ْQulac](https://github.com/aliannejadi/qulac): 10,277 single-turn **conversations** consiting of clarifying questions and their answers on multi-faceted and ambigouous queries from TREC Web track 2009-2012.
+- [Qulac](https://github.com/aliannejadi/qulac): 10,277 single-turn **conversations** consiting of clarifying questions and their answers on multi-faceted and ambigouous queries from TREC Web track 2009-2012.
   - "Qulac presents the first dataset and offline evaluation framework for studying clarifying questions in open-domain information-seeking conversational search systems."
   - "... we collected Qulac following a four-step strategy. In the first step, we define the topics and their corresponding subtopics. In the second step, we collected several candidates clarifying questions for each query through crowdsourcing. Then, in the third step, we assessed the relevance of the questions to each facet and collected new questions for those facets that require more specific questions. Finally, in the last step, we collected the answers for every query-facet-question triplet."
 - [TREC 2019 Conversational Search task](http://treccast.ai/)
