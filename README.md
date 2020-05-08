@@ -22,8 +22,8 @@ I made a [brief slide deck with a summary of the workshops](https://docs.google.
 - [3rd Conversational AI: Today's Practice and Tomorrow's Potential @ NeurIPS 2019](http://alborz-geramifard.com/workshops/neurips19-Conversational-AI/Main.html)
 - [user2agent 2019: 1st Workshop on User-Aware Conversational Agents @ IUI 2019](https://www.research.ibm.com/haifa/Workshops/user2agent2019/)
 - [Conversational Systems for E-Commerce Recommendations and Search @ WSDM 2020](https://wsdm-converse.github.io/)
-- 3rd International Workshop on Conversational Approaches to Information Retrieval (CAIR) @ CHIIR 2020
-- Search-Oriented Conversational AI @ EMNLP 2020
+- [3rd International Workshop on Conversational Approaches to Information Retrieval (CAIR) @ CHIIR 2020](https://sites.google.com/view/cair-ws/cair-2020)
+- [Search-Oriented Conversational AI @ EMNLP 2020](https://scai.info/2020/cfp/)
 - [user2agent 2020: 2nd Workshop on User-Aware Conversational Agents @ IUI 2020](https://www.research.ibm.com/haifa/Workshops/user2agent2020/)
 - [2nd International Conference on Conversational User Interfaces 2020](https://cui2020.com/)
 
