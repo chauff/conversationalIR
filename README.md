@@ -26,6 +26,7 @@ I made a [brief slide deck with a summary of the workshops](https://docs.google.
 - [Search-Oriented Conversational AI @ EMNLP 2020](https://scai.info/2020/cfp/)
 - [user2agent 2020: 2nd Workshop on User-Aware Conversational Agents @ IUI 2020](https://www.research.ibm.com/haifa/Workshops/user2agent2020/)
 - [2nd International Conference on Conversational User Interfaces 2020](https://cui2020.com/)
+- [KDD Converse 2020: Workshop on Conversational Systems Towards Mainstream Adoption](https://conversekdd20.github.io/index.html)
 
 
 
