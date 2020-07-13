@@ -32,7 +32,11 @@ I made a [brief slide deck with a summary of the workshops](https://docs.google.
 
 
 ## (Semi-)Relevant datasets and benchmarks
-
+- [MIMICS](https://github.com/microsoft/MIMICS/)
+  - "A Large-Scale Data Collection for Search Clarification"
+  - "MIMICS-Click includes over **400k** unique queries, their associated clarification panes, and the corresponding aggregated user interaction signals (i.e., clicks)."
+  - "MIMICS-ClickExplore is an exploration data that includes aggregated user interaction signals for over **60k** unique queries, each with multiple clarification panes."
+  - "MIMICS-Manual includes over **2k** unique real search queries. Each query-clarification pair in this dataset has been manually labeled by at least three trained annotators."
 - [ClariQ challenge](https://github.com/aliannejadi/ClariQ)
   - "we have crowdsourced a new dataset to study clarifying questions"
   - "We have extended the Qulac dataset and base the competition mostly on the training data that Qulac provides. In addition, we have added some new topics, questions, and answers in the training set."
