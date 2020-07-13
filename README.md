@@ -33,6 +33,9 @@ I made a [brief slide deck with a summary of the workshops](https://docs.google.
 
 ## (Semi-)Relevant datasets and benchmarks
 
+- [ClariQ challenge](https://github.com/aliannejadi/ClariQ)
+  - "we have crowdsourced a new dataset to study clarifying questions"
+  - "We have extended the Qulac dataset and base the competition mostly on the training data that Qulac provides. In addition, we have added some new topics, questions, and answers in the training set."
 - [PolyAI](https://github.com/PolyAI-LDN/conversational-datasets)
   - "This repository provides tools to create reproducible datasets for training and evaluating models of conversational response. This includes: Reddit (3.7 billion comments), OpenSubtitles (400 million lines from movie and television subtitles) and Amazon QA (3.6 million question-response pairs in the context of Amazon products)"
 - [The TREC Conversational Assistance Track (CAsT)](http://www.treccast.ai/)
