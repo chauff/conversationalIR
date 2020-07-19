@@ -95,3 +95,4 @@ learner (the apprentice)."
 ## Other sites
 - [NLP Progress](http://nlpprogress.com/) (many tasks and resources)
 - [Papers with code](https://paperswithcode.com/)
+- [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
