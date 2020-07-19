@@ -27,11 +27,12 @@ I made a [brief slide deck with a summary of the workshops](https://docs.google.
 - [user2agent 2020: 2nd Workshop on User-Aware Conversational Agents @ IUI 2020](https://www.research.ibm.com/haifa/Workshops/user2agent2020/)
 - [2nd International Conference on Conversational User Interfaces 2020](https://cui2020.com/)
 - [KDD Converse 2020: Workshop on Conversational Systems Towards Mainstream Adoption](https://conversekdd20.github.io/index.html)
-
-
+- [Retrieval From Conversational Dialogues (RCD-2020)](https://rcd2020firetask.github.io/RCD2020FIRETASK/)
 
 
 ## (Semi-)Relevant datasets and benchmarks
+- [Retrieval From Conversational Dialogues (RCD-2020)](https://rcd2020firetask.github.io/RCD2020FIRETASK/)
+  - "The objective of the proposed track [...] is to automatically contextualize two-party or multi-party dialogue systems. We explore the utility of IR systems to retrieve more information about entities discussed in interactive dialogues."
 - [MIMICS](https://github.com/microsoft/MIMICS/)
   - "A Large-Scale Data Collection for Search Clarification"
   - "MIMICS-Click includes over **400k** unique queries, their associated clarification panes, and the corresponding aggregated user interaction signals (i.e., clicks)."
