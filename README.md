@@ -27,12 +27,13 @@ I made a [brief slide deck with a summary of the workshops](https://docs.google.
 - [user2agent 2020: 2nd Workshop on User-Aware Conversational Agents @ IUI 2020](https://www.research.ibm.com/haifa/Workshops/user2agent2020/)
 - [2nd International Conference on Conversational User Interfaces 2020](https://cui2020.com/)
 - [KDD Converse 2020: Workshop on Conversational Systems Towards Mainstream Adoption](https://conversekdd20.github.io/index.html)
-- [Retrieval From Conversational Dialogues (RCD-2020)](https://rcd2020firetask.github.io/RCD2020FIRETASK/)
 
 
 ## (Semi-)Relevant datasets and benchmarks
-- [Retrieval From Conversational Dialogues (RCD-2020)](https://rcd2020firetask.github.io/RCD2020FIRETASK/)
-  - "The objective of the proposed track [...] is to automatically contextualize two-party or multi-party dialogue systems. We explore the utility of IR systems to retrieve more information about entities discussed in interactive dialogues."
+- [CAsT-19: A Dataset for Conversational Information Seeking](http://www.treccast.ai/)
+  - "The corpus is **38,426,252** passages from the TREC Complex Answer Retrieval (CAR) and Microsoft MAchine Reading COmprehension (MARCO) datasets. **Eighty** information seeking dialogues (30 train, 50 test) are on average 9 to 10 questions long. A dialogue may explore a topic broadly or drill down into subtopics." ([source](https://www.cs.cmu.edu/~callan/Papers/sigir20-dalton.pdf)) 
+- [FIRE 2020 task: Retrieval From Conversational Dialogues (RCD-2020)](https://rcd2020firetask.github.io/RCD2020FIRETASK/)
+  - _details are not yet known_
 - [MIMICS](https://github.com/microsoft/MIMICS/)
   - "A Large-Scale Data Collection for Search Clarification"
   - "MIMICS-Click includes over **400k** unique queries, their associated clarification panes, and the corresponding aggregated user interaction signals (i.e., clicks)."
