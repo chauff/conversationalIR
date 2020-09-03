@@ -34,7 +34,9 @@ I made a [brief slide deck with a summary of the workshops](https://docs.google.
 - [CAsT-19: A Dataset for Conversational Information Seeking](http://www.treccast.ai/)
   - "The corpus is **38,426,252** passages from the TREC Complex Answer Retrieval (CAR) and Microsoft MAchine Reading COmprehension (MARCO) datasets. **Eighty** information seeking dialogues (30 train, 50 test) are on average 9 to 10 questions long. A dialogue may explore a topic broadly or drill down into subtopics." ([source](https://www.cs.cmu.edu/~callan/Papers/sigir20-dalton.pdf)) 
 - [FIRE 2020 task: Retrieval From Conversational Dialogues (RCD-2020)](https://rcd2020firetask.github.io/RCD2020FIRETASK/)
-  - _details are not yet known_
+  - "Task 1: Given an excerpt of a dialogue act, output the span of text indicating a potential piece of information need (requiring contextualization)."
+  - "Task 2: Given an excerpt of a dialogue act, return a ranked list of passages containing information on the topic of the information need (requiring contextualization)."
+  - "The participants shall be provided with a manually annotated sample of dialogue spans extracted from four movie scripts along with entire movie scripts. The collection from which passages are to be retrieved for contextualization is the Wikipedia collection (dump from 2019). Each document in the Wikipedia collection is composed of explicitly marked-up passages (in the form of the paragraph tags). The retrievable units in our task are the passages (instead of whole documents)."
 - [MIMICS](https://github.com/microsoft/MIMICS/)
   - "A Large-Scale Data Collection for Search Clarification"
   - "MIMICS-Click includes over **400k** unique queries, their associated clarification panes, and the corresponding aggregated user interaction signals (i.e., clicks)."
