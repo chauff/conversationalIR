@@ -28,6 +28,7 @@ I made a [brief slide deck with a summary of the workshops](https://docs.google.
 - [2nd International Conference on Conversational User Interfaces 2020](https://cui2020.com/)
 - [KDD Converse 2020: Workshop on Conversational Systems Towards Mainstream Adoption](https://conversekdd20.github.io/index.html)
 - [CUI@CSCW2020: Collaborating through Conversational User Interfaces](http://speech-interaction.org/CSCW2020/index.html)
+- [ACM Multimedia workshop Multimodal Conversational AI](https://sites.google.com/view/multimodal-conversational-ai/)
 
 
 ## (Semi-)Relevant datasets and benchmarks
