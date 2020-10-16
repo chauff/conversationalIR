@@ -31,7 +31,9 @@ I made a [brief slide deck with a summary of the workshops](https://docs.google.
 - [ACM Multimedia workshop Multimodal Conversational AI](https://sites.google.com/view/multimodal-conversational-ai/)
 
 
-## (Semi-)Relevant datasets and benchmarks
+## Relevant datasets and benchmarks
+- [QReCC](https://github.com/apple/ml-qrecc)
+  - "We introduce QReCC (Question Rewriting in Conversational Context), an end-to-end open-domain question answering dataset comprising of 14K conversations with 81K question-answer pairs. The goal of this dataset is to provide a challenging benchmark for end-to-end conversational question answering that includes the individual subtasks of question rewriting, passage retrieval and reading comprehension."
 - [CAsT-19: A Dataset for Conversational Information Seeking](http://www.treccast.ai/)
   - "The corpus is **38,426,252** passages from the TREC Complex Answer Retrieval (CAR) and Microsoft MAchine Reading COmprehension (MARCO) datasets. **Eighty** information seeking dialogues (30 train, 50 test) are on average 9 to 10 questions long. A dialogue may explore a topic broadly or drill down into subtopics." ([source](https://www.cs.cmu.edu/~callan/Papers/sigir20-dalton.pdf)) 
 - [FIRE 2020 task: Retrieval From Conversational Dialogues (RCD-2020)](https://rcd2020firetask.github.io/RCD2020FIRETASK/)
