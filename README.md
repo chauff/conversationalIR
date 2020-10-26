@@ -29,9 +29,6 @@
 
 
 ## Relevant datasets and benchmarks
-- [MIMICS](https://github.com/microsoft/MIMICS)
-  - " a data collection for studying search clarification, which is an interesting and emerging task in the context of web search and conversational search"
-  - "The first dataset, called MIMICS-Click, includes over 400k unique search queries sampled from the Bing’s query logs, each associated with a single clarification pane. The dataset also includes aggregated user interaction signals, such as the overall user engagement level and conditional clickthrough rate on individual candidate answers. The second dataset, called MIMICS-ClickExplore, contains over 64k queries, each with multiple clarification panes which are the result of multiple exploration and online randomization experiments"
 - [QReCC](https://github.com/apple/ml-qrecc)
   - "We introduce QReCC (Question Rewriting in Conversational Context), an end-to-end open-domain question answering dataset comprising of 14K conversations with 81K question-answer pairs. The goal of this dataset is to provide a challenging benchmark for end-to-end conversational question answering that includes the individual subtasks of question rewriting, passage retrieval and reading comprehension."
 - [CAsT-19: A Dataset for Conversational Information Seeking](http://www.treccast.ai/)
