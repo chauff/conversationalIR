@@ -83,6 +83,7 @@ learner (the apprentice)."
 - [TREC 2019 Conversational Search task](http://treccast.ai/)
 
 ## Non-relevant but interesting datasets
+- [FiRA](https://github.com/sebastian-hofstaetter/fira-trec-19-dataset): extension of the ranked retrieval annotations of the Deep Learning Document Track of TREC 2019 with passage and word level graded relevance annotations for all relevant documents.
 - [ORCAS](https://microsoft.github.io/TREC-2020-Deep-Learning/ORCAS): Open Resource for Click Analysis in Search
 - [CoSQL](https://yale-lily.github.io/cosql): CoSQL is a corpus for building cross-domain Conversational text-to-SQL systems.
 - [Spider](https://yale-lily.github.io/spider): Yale Semantic Parsing and Text-to-SQL Challenge
