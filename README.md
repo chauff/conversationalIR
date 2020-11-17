@@ -26,7 +26,7 @@
 - [CUI@CSCW2020: Collaborating through Conversational User Interfaces](http://speech-interaction.org/CSCW2020/index.html)
 - [ACM Multimedia workshop Multimodal Conversational AI](https://sites.google.com/view/multimodal-conversational-ai/)
 - [Workshop on Mixed-Initiative ConveRsatiOnal Systems (MICROS@ECIR2021)](https://micros2021.github.io/)
-- [CUI@IUI: Theoretical and Methodological Challenges in Intelligent Conversational User Interface Interactions](http://speechinteraction.org/IUI2021/)
+- [CUI@IUI2021: Theoretical and Methodological Challenges in Intelligent Conversational User Interface Interactions](http://speechinteraction.org/IUI2021/)
 
 
 ## Relevant datasets and benchmarks
