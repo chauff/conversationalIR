@@ -31,6 +31,9 @@
 
 
 ## Relevant datasets and benchmarks
+- [CANARD](https://sites.google.com/view/qanta/projects/canard)
+  - "CANARD is a dataset for question-in-context rewriting that consists of questions each given in a dialog context together with a context-independent rewriting of the question."
+  - "CANARD is constructed by crowdsourcing question rewritings using Amazon Mechanical Turk. We apply several automatic and manual quality controls to ensure the quality of the data collection process. The dataset consists of 40,527 questions with different context lengths."
 - [QReCC](https://github.com/apple/ml-qrecc)
   - "We introduce QReCC (Question Rewriting in Conversational Context), an end-to-end open-domain question answering dataset comprising of 14K conversations with 81K question-answer pairs. The goal of this dataset is to provide a challenging benchmark for end-to-end conversational question answering that includes the individual subtasks of question rewriting, passage retrieval and reading comprehension."
 - [CAsT-19: A Dataset for Conversational Information Seeking](http://www.treccast.ai/)
