@@ -6,6 +6,7 @@
 - [Talking with Conversational Agents in Collaborative Action @ CSCW 2017](https://talkingwithagents.wordpress.com/)
 - [1st Conversational AI: Today's Practice and Tomorrow's Potential @ NeurIPS 2017](http://alborz-geramifard.com/workshops/nips17-Conversational-AI/Main.html)
 - [Search-oriented conversational AI @ EMNLP 2018](https://scai.info/2018/)
+- [1st Workshop of Knowledge-aware and Conversational Recommender Systems @ RecSys 2018](https://kars-workshop.github.io/2018/)
 - [Conversational Approaches to IR @ SIGIR 2018](https://sites.google.com/view/cair-ws/cair-2018)
 - [2nd Conversational AI: Today's Practice and Tomorrow's Potential @ NeurIPS 2018](http://alborz-geramifard.com/workshops/nips18-Conversational-AI/Main.html)
 - [NLP for Conversational AI @ ACL 2019](https://sites.google.com/view/nlp4convai/)
