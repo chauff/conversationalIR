@@ -33,6 +33,8 @@
 
 
 ## Relevant datasets and benchmarks
+- [MANtIS](https://guzpenha.github.io/MANtIS/): a Multi-Domain Information Seeking Dialogues Dataset.
+  - "Unlike previous information-seeking dialogue datasets that focus on only one domain, MANtIS has more than **80K** diverse conversations from **14 different sites**, such as physics, travel and worldbuilding. Additionaly, all dialogues have a url, providing grounding to the conversations. It can be used for the following tasks: conversation response ranking/generation and user intent prediction. We provide manually annotated user intent labels for more than **1300 dialogues**, resulting in a total of **6701** labeled utterances."
 - [CANARD](https://sites.google.com/view/qanta/projects/canard)
   - "CANARD is a dataset for question-in-context rewriting that consists of questions each given in a dialog context together with a context-independent rewriting of the question."
   - "CANARD is constructed by crowdsourcing question rewritings using Amazon Mechanical Turk. We apply several automatic and manual quality controls to ensure the quality of the data collection process. The dataset consists of 40,527 questions with different context lengths."
