@@ -31,6 +31,9 @@
 - [Conversational User Interfaces Conference (CUI 2021)](https://www.conversationaluserinterfaces.org/2021/)
 - [Future Conversations 2021 workshop at CHIIR 2021](https://sites.google.com/view/cair-ws/future-conversations21)
 
+## Research themes
+
+![research themes](research-themes-03_2021.png)
 
 ## Relevant datasets/benchmarks 🗂 and leaderboards 🚴
 - 🚴 [Leaderboard for multi-turn response selection](https://github.com/JasonForJoy/Leaderboards-for-Multi-Turn-Response-Selection)
