@@ -33,6 +33,8 @@
 
 
 ## Relevant datasets and benchmarks
+- [Leaderboard for multi-turn response selection](https://github.com/JasonForJoy/Leaderboards-for-Multi-Turn-Response-Selection)
+  - "Multi-turn response selection in retrieval-based chatbots is a task which aims to select the best-matched response from a set of candidates, given the context of a conversation. This task is attracting more and more attention in academia and industry. However, no one has maintained a leaderboard and a collection of popular papers and datasets yet. The main objective of this repository is to provide the reader with a quick overview of benchmark datasets and the state-of-the-art studies on this task, which serves as a stepping stone for further research."  
 - [MANtIS](https://guzpenha.github.io/MANtIS/): a Multi-Domain Information Seeking Dialogues Dataset.
   - "Unlike previous information-seeking dialogue datasets that focus on only one domain, MANtIS has more than **80K** diverse conversations from **14 different Stack Exchannge sites**, such as physics, travel and worldbuilding. Additionaly, all dialogues have a url, providing grounding to the conversations. It can be used for the following tasks: conversation response ranking/generation and user intent prediction. We provide manually annotated user intent labels for more than **1300 dialogues**, resulting in a total of **6701** labeled utterances."
 - [CANARD](https://sites.google.com/view/qanta/projects/canard)
