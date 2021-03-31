@@ -15,7 +15,7 @@
 - [Conversational Interaction Systems @ SIGIR 2019](https://sites.google.com/view/wcis/home)
 - [Conversational Agents: Acting on the Wave of Research and Development @ CHI 2019](https://convagents.org/)
 - [1st International Conference on Conversational User Interfaces 2019](https://dl.acm.org/doi/proceedings/10.1145/3342775)
-- [Dagstuhl 2019 Seminar Conversational Search](https://arxiv.org/abs/2005.08658)
+- [Dagstuhl 2019 Seminar Conversational Search](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19461)
 - [3rd Conversational AI: Today's Practice and Tomorrow's Potential @ NeurIPS 2019](http://alborz-geramifard.com/workshops/neurips19-Conversational-AI/Main.html)
 - [user2agent 2019: 1st Workshop on User-Aware Conversational Agents @ IUI 2019](https://www.research.ibm.com/haifa/Workshops/user2agent2019/)
 - [Conversational Systems for E-Commerce Recommendations and Search @ WSDM 2020](https://wsdm-converse.github.io/)
@@ -41,7 +41,7 @@ The mindmap was created with [markmap, a neat markdown to mindmap tool](https://
 
 ![research themes](research-themes-03_2021.png)
 
-Interestingly, if you check out the [Dagstuhl report published about the Conversational Search seminar](https://arxiv.org/abs/2005.08658) in late 2019 (where many researchers came together to define/work on a roadmap) you will find that the themes chosen their are not well covered in the above research lines.
+Interestingly, if you check out the [report published about the Dagstuhl Conversational Search seminar](https://arxiv.org/abs/2005.08658) in late 2019 (where many researchers came together to define/work on a roadmap) you will find that the themes chosen their are not well covered in the above research lines.
 
 ## Relevant datasets/benchmarks 🗂 and leaderboards 🚴
 - 🚴 [Leaderboard for multi-turn response selection](https://github.com/JasonForJoy/Leaderboards-for-Multi-Turn-Response-Selection)
