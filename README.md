@@ -59,17 +59,17 @@
   - "We have extended the Qulac dataset and base the competition mostly on the training data that Qulac provides. In addition, we have added some new topics, questions, and answers in the training set."
 - 🗂 [PolyAI](https://github.com/PolyAI-LDN/conversational-datasets)
   - "This repository provides tools to create reproducible datasets for training and evaluating models of conversational response. This includes: Reddit (3.7 billion comments), OpenSubtitles (400 million lines from movie and television subtitles) and Amazon QA (3.6 million question-response pairs in the context of Amazon products)"
-- 🗂 [Natural Questions](https://ai.google.com/research/NaturalQuestions): Google's latest question answering dataset.
+- 🗂 🚴 [Natural Questions](https://ai.google.com/research/NaturalQuestions): Google's latest question answering dataset.
   - "Natural Questions contains 307K training examples, 8K examples for development, and a further 8K examples for testing."
   - "NQ is the first dataset to use naturally occurring queries and focus on finding answers by reading an entire page, rather than extracting answers from a short paragraph. To create NQ, we started with real, anonymized, aggregated queries that users have posed to Google's search engine. We then ask annotators to find answers by reading through an entire Wikipedia page as they would if the question had been theirs. Annotators look for both long answers that cover all of the information required to infer the answer, and short answers that answer the question succinctly with the names of one or more entities. The quality of the annotations in the NQ corpus has been measured at 90% accuracy."
   - [Paper](https://ai.google/research/pubs/pub47761)
-- 🗂 :hatched_chick: [QuAC](http://quac.ai/): Question Answering in Context
+- 🗂 🚴 :hatched_chick: [QuAC](http://quac.ai/): Question Answering in Context
   - "A dataset for modeling, understanding, and participating in **information seeking dialog**. Data instances consist of an interactive dialog between two crowd workers: (1) a student who poses a sequence of freeform questions to learn as much as possible about a hidden Wikipedia text, and (2) a teacher who answers the questions by providing short excerpts (spans) from the text."
-- 🗂 :leaves: [CoQA](https://stanfordnlp.github.io/coqa/): A Conversational Question Answering Challenge
+- 🗂 🚴 :leaves: [CoQA](https://stanfordnlp.github.io/coqa/): A Conversational Question Answering Challenge
   - "CoQA contains 127,000+ questions with answers collected from **8000+ conversations**. Each conversation is collected by pairing two crowdworkers to chat about a passage in the form of questions and answers."
-- 🗂 [HotpotQA](https://hotpotqa.github.io/): A Dataset for **Diverse, Explainable** Multi-hop Question Answering
+- 🗂 🚴 [HotpotQA](https://hotpotqa.github.io/): A Dataset for **Diverse, Explainable** Multi-hop Question Answering
   - "HotpotQA is a question answering dataset featuring natural, multi-hop questions, with strong supervision for supporting facts."  
-- 🗂 [QANTA](https://pinafore.github.io/qanta-leaderboard/): Question Answering is Not a Trivial Activity
+- 🗂 🚴 [QANTA](https://pinafore.github.io/qanta-leaderboard/): Question Answering is Not a Trivial Activity
   - "A question answering dataset composed of questions from Quizbowl - a trivia game that is challenging for both humans and machines. Each question contains 4-5 pyramidally arranged clues: obscure ones at the beginning and obvious ones at the end."
 - 🗂 [MSDialog](https://ciir.cs.umass.edu/downloads/msdialog/)
   - "The MSDialog dataset is a labeled **dialog dataset** of question answering (QA) interactions between information seekers and answer providers from an online forum on Microsoft products."
