@@ -33,7 +33,7 @@
 
 ## Research themes
 
-This categorization was created in a bottom-up manner. I looked at the 300+ papers accepted by the workshops/conferences listed above (up to and including the MICROS 2021 workshop) and iteratively revised the categories. Each paper was included in only one category or sub-category. 
+This categorization was created in a bottom-up manner. I looked at the 300+ papers accepted by the workshops/conferences listed above (up to and including the MICROS 2021 workshop) and iteratively revised the categories. Each paper was included in only one category or sub-category. This is of course purely subjective; ask 10 different researchers to come up with categories and you get 10 different results ...
 
 The bracketed numbers starting with → indicate the total number of papers in this branch of the tree; e.g. there are a total of 48 papers that fall into some node inside the `Domains` category. The bracketed numbers after a sub-category without → indicate the number assigned to this particular node by me. For instance, `chitchat (4)` means that 4 papers fell in this category while `Alexa Prize (3)` means that three - different - papers fell into this more specific sub-category. 
 
