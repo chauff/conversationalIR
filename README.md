@@ -92,15 +92,13 @@ learner (the apprentice)."
   - "Qulac presents the first dataset and offline evaluation framework for studying clarifying questions in open-domain information-seeking conversational search systems."
   - "... we collected Qulac following a four-step strategy. In the first step, we define the topics and their corresponding subtopics. In the second step, we collected several candidates clarifying questions for each query through crowdsourcing. Then, in the third step, we assessed the relevance of the questions to each facet and collected new questions for those facets that require more specific questions. Finally, in the last step, we collected the answers for every query-facet-question triplet."
 - [TREC 2019 Conversational Search task](http://treccast.ai/)
-
-## Non-relevant but interesting datasets
-- [FiRA](https://github.com/sebastian-hofstaetter/fira-trec-19-dataset): extension of the ranked retrieval annotations of the Deep Learning Document Track of TREC 2019 with passage and word level graded relevance annotations for all relevant documents.
-- [ORCAS](https://microsoft.github.io/TREC-2020-Deep-Learning/ORCAS): Open Resource for Click Analysis in Search
-- [CoSQL](https://yale-lily.github.io/cosql): CoSQL is a corpus for building cross-domain Conversational text-to-SQL systems.
-- [Spider](https://yale-lily.github.io/spider): Yale Semantic Parsing and Text-to-SQL Challenge
-  - "Spider is a large-scale complex and cross-domain semantic parsing and text-to-SQL dataset annotated by 11 Yale students. The goal of the Spider challenge is to develop natural language interfaces to cross-domain databases. It consists of 10,181 questions and 5,693 unique complex SQL queries on 200 databases with multiple tables covering 138 different domains."
-- [Swag](https://rowanzellers.com/swag/): A Large-Scale Adversarial Dataset for Grounded Commonsense Inference 
 - [MS Marco](http://www.msmarco.org/): question answering and passage re-ranking
+  - This is not a conversational dataset but has been used for some sub-tasks in conversational IR (e.g. question rewriting) in the past.
+- [CoSQL](https://yale-lily.github.io/cosql): CoSQL is a corpus for building cross-domain Conversational text-to-SQL systems.
+  - "It is the dialogue version of the Spider and SParC tasks. CoSQL consists of **30k+** turns plus **10k+ annotated SQL queries**, obtained from a Wizard-of-Oz collection of 3k dialogues querying 200 complex databases spanning 138 domains."
+  
+## Other datasets  
+- [ORCAS](https://microsoft.github.io/TREC-2020-Deep-Learning/ORCAS): Open Resource for Click Analysis in Search
 
   
 ## Tooling
