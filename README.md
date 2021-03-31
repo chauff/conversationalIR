@@ -41,7 +41,7 @@ The mindmap was created with [markmap, a neat markdown to mindmap tool](https://
 
 ![research themes](research-themes-03_2021.png)
 
-Interestingly, if you check out the [report published about the Dagstuhl Conversational Search seminar](https://arxiv.org/abs/2005.08658) in late 2019 (where many researchers came together to define/work on a roadmap) you will find that the themes chosen their are not well covered in the above research lines.
+Interestingly, if you check out the [report published about the Dagstuhl Conversational Search seminar](https://arxiv.org/abs/2005.08658) in late 2019 (where many researchers came together to define/work on a roadmap) you will find that the themes chosen there are not well covered in the above research lines.
 
 ## Relevant datasets/benchmarks 🗂 and leaderboards 🚴
 - 🚴 [Leaderboard for multi-turn response selection](https://github.com/JasonForJoy/Leaderboards-for-Multi-Turn-Response-Selection)
