@@ -37,7 +37,7 @@ This categorization was created in a bottom-up manner. I looked at the 300+ pape
 
 The bracketed numbers starting with → indicate the total number of papers in this branch of the tree; e.g. there are a total of 48 papers that fall into some node inside the `Domains` category. The bracketed numbers after a sub-category without → indicate the number assigned to this particular node by me. For instance, `chitchat (4)` means that 4 papers fell in this category while `Alexa Prize (3)` means that three - different - papers fell into this more specific sub-category. 
 
-The mindmap was created with this [markmap, a neat markdown to mindmap tool](https://markmap.js.org/). The svg of the mindmap is [also available](research-themes-03_2021.svg): open it in your favourite browser to experience an unpixelated mindmap. If you want to make changes, use the [markdown file](research-themes-03_2021.md) and use markmap.
+The mindmap was created with this [markmap, a neat markdown to mindmap tool](https://markmap.js.org/). The svg of the mindmap is [also available](research-themes-03_2021.svg): open it in your favourite browser to experience an unpixelated mindmap. If you want to reuse the categories, alter/update/edit them, take the [markdown file](research-themes-03_2021.md) as starting point and then head over to markmap!
 
 ![research themes](research-themes-03_2021.png)
 
