@@ -1,0 +1,74 @@
+- **Data (→14)**
+	- creation & annotation schemes (8)
+	- incorporation of structured data (5)
+	- cleaning (1)
+- **Domains (→48)**
+	- open-domain
+		- chitchat (4)
+			- 🏅 Alexa Prize (3)
+		- search (4)
+	- goal/task-oriented (3)
+		- coaching (2)
+		- health care (4)
+		- human learning (5)
+		- recruitment (1)
+		- customer support (5)
+		- museum (1)
+		- citizen services (1)
+		- software development (1)
+		- companion (4)
+		- behaviour change (1)
+		- data exploration (4)
+		- aerospace (1)
+		- image editing (1)
+		- human-agent negotiation
+			- 🏅 Automated Negotiating Agents Competition (2)
+		- agriculture (1)
+- **Theoretical works (→5)**
+	- definition (1)
+	- agent-human interactions (1)
+	- argumentation models (1)
+	- conversationnal strategies (1)
+	- theories of conversation (1)
+- **Techniques (→14)**
+	- reinforcement learning (9)
+	- model training (5)
+- **Sub-problems (→84)**
+	- **conversation in focus (→32)**
+		- conversation context tracking (12)
+			- 🏅 Dialog System Technology Challenge (2)
+		- context-independent query rewriting
+		- dialogue error recovery (2)
+		- dialogue policy learning & management (15)
+		- model analysis (1)
+	- **response in focus (→32)**
+		- response ranking (7)
+			- question answering (7)
+		- response generation (8)
+			- meaningful responses (6)
+			- clarifying questions (4)
+	- recommendation (3)
+	- personalization (7)
+	- emotions, empathy & persona (6)
+	- multimodal (3)
+	- agent orchestration (1)
+- **Evaluation (→15)**
+	- individiual dialogues (4)
+	- conversational UIs & agents (10)
+	- user simulation (1)
+- **Systems (→39)**
+	- tools/prototypes (13)
+	- system architecture (2)
+	- production system challenges (4)
+	- crowd-powered/supported systems (4)
+	- interface design (7)
+	- inclusion and accessibility (3)
+	- agent design (6)
+- **Users (→31)**
+	- experiences, perceptions and expectations (12)
+		- children (1)
+		- older people (2)
+	- trust	(3)
+	- behaviour (5)
+	- use cases (8)
+- **Others (→51)**
