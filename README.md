@@ -1,4 +1,6 @@
-## Relevant *connversational XYZ* workshops and conferences
+## Workshops and conferences
+*This is*
+
 ### 2017
 - [Search-oriented conversational AI @ ICTIR 2017](https://scai.info/2017/)
 - [Conversational Approaches to IR @ SIGIR 2017](https://sites.google.com/view/cair-ws/cair-2017)
