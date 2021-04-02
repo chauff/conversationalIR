@@ -42,7 +42,7 @@
 
 ## Research themes
 
-This categorization was created in a bottom-up manner. I looked at the 300+ papers accepted by the workshops/conferences listed above (up to and including the MICROS 2021 workshop) and iteratively revised the categories. Each paper was included in only one category or sub-category. This is of course purely subjective; ask 10 different researchers to come up with categories and you get 10 different results ...
+This categorization was created in a bottom-up manner based on the 300+ papers accepted by the workshops/conferences listed above (up to and including the MICROS 2021 workshop). Each paper was included in only one category or sub-category. This is of course purely subjective; ask 10 different researchers to come up with categories and you get 10 different results ...
 
 The bracketed numbers starting with → indicate the total number of papers in this branch of the tree; e.g. there are a total of 48 papers that fall into some node inside the `Domains` category. The bracketed numbers after a sub-category without → indicate the number assigned to this particular node by me. For instance, `chitchat (4)` means that 4 papers fell in this category while `Alexa Prize (3)` means that three - different - papers fell into this more specific sub-category. 
 
@@ -91,9 +91,9 @@ Interestingly, if you check out the [report published about the Dagstuhl Convers
   - "Natural Questions contains 307K training examples, 8K examples for development, and a further 8K examples for testing."
   - "NQ is the first dataset to use naturally occurring queries and focus on finding answers by reading an entire page, rather than extracting answers from a short paragraph. To create NQ, we started with real, anonymized, aggregated queries that users have posed to Google's search engine. We then ask annotators to find answers by reading through an entire Wikipedia page as they would if the question had been theirs. Annotators look for both long answers that cover all of the information required to infer the answer, and short answers that answer the question succinctly with the names of one or more entities. The quality of the annotations in the NQ corpus has been measured at 90% accuracy."
   - [Paper](https://ai.google/research/pubs/pub47761)
-- 🗂 🚴 :hatched_chick: [QuAC](http://quac.ai/): Question Answering in Context
+- 🗂 🚴 [QuAC](http://quac.ai/): Question Answering in Context
   - "A dataset for modeling, understanding, and participating in **information seeking dialog**. Data instances consist of an interactive dialog between two crowd workers: (1) a student who poses a sequence of freeform questions to learn as much as possible about a hidden Wikipedia text, and (2) a teacher who answers the questions by providing short excerpts (spans) from the text."
-- 🗂 🚴 :leaves: [CoQA](https://stanfordnlp.github.io/coqa/): A Conversational Question Answering Challenge
+- 🗂 🚴 [CoQA](https://stanfordnlp.github.io/coqa/): A Conversational Question Answering Challenge
   - "CoQA contains 127,000+ questions with answers collected from **8000+ conversations**. Each conversation is collected by pairing two crowdworkers to chat about a passage in the form of questions and answers."
 - 🗂 🚴 [HotpotQA](https://hotpotqa.github.io/): A Dataset for **Diverse, Explainable** Multi-hop Question Answering
   - "HotpotQA is a question answering dataset featuring natural, multi-hop questions, with strong supervision for supporting facts."  
@@ -102,7 +102,7 @@ Interestingly, if you check out the [report published about the Dagstuhl Convers
 - 🗂 [MSDialog](https://ciir.cs.umass.edu/downloads/msdialog/)
   - "The MSDialog dataset is a labeled **dialog dataset** of question answering (QA) interactions between information seekers and answer providers from an online forum on Microsoft products."
   - "The annotated dataset contains 2,199 multi-turn dialogs with 10,020 utterances."
-- 🗂 :whale2: [ShARC](https://sharc-data.github.io/index.html): Shaping Answers with Rules through **Conversation**
+- 🗂 [ShARC](https://sharc-data.github.io/index.html): Shaping Answers with Rules through **Conversation**
   - "Most work in machine reading focuses on question answering problems where the answer is directly expressed in the text to read. However, many real-world question answering problems require the reading of text not because it contains the literal answer, but because it contains a recipe to derive an answer together with the reader's background knowledge. We formalise this task and develop a crowd-sourcing strategy to collect 37k task instances."
 - 🗂 [Training Millions of Personalized Dialogue Agents](https://arxiv.org/abs/1809.01984)
   - 5 million personas and 700 million persona-based **dialogues**  
