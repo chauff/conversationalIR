@@ -1,5 +1,5 @@
 ## Workshops and conferences
-*This is*
+*Please make a pull request if you find a venue to be missing.*
 
 ### 2017
 - [Search-oriented conversational AI @ ICTIR 2017](https://scai.info/2017/)
