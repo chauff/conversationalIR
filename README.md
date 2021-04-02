@@ -1,6 +1,4 @@
-# Conversational IR
-
-## Relevant workshops and conferences
+## Relevant *connversational XYZ* workshops and conferences
 - [Search-oriented conversational AI @ ICTIR 2017](https://scai.info/2017/)
 - [Conversational Approaches to IR @ SIGIR 2017](https://sites.google.com/view/cair-ws/cair-2017)
 - [Talking with Conversational Agents in Collaborative Action @ CSCW 2017](https://talkingwithagents.wordpress.com/)
