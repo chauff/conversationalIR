@@ -1,12 +1,17 @@
 ## Relevant *connversational XYZ* workshops and conferences
+### 2017
 - [Search-oriented conversational AI @ ICTIR 2017](https://scai.info/2017/)
 - [Conversational Approaches to IR @ SIGIR 2017](https://sites.google.com/view/cair-ws/cair-2017)
 - [Talking with Conversational Agents in Collaborative Action @ CSCW 2017](https://talkingwithagents.wordpress.com/)
 - [1st Conversational AI: Today's Practice and Tomorrow's Potential @ NeurIPS 2017](http://alborz-geramifard.com/workshops/nips17-Conversational-AI/Main.html)
+
+### 2018
 - [Search-oriented conversational AI @ EMNLP 2018](https://scai.info/2018/)
 - [1st Workshop of Knowledge-aware and Conversational Recommender Systems @ RecSys 2018](https://kars-workshop.github.io/2018/)
 - [Conversational Approaches to IR @ SIGIR 2018](https://sites.google.com/view/cair-ws/cair-2018)
 - [2nd Conversational AI: Today's Practice and Tomorrow's Potential @ NeurIPS 2018](http://alborz-geramifard.com/workshops/nips18-Conversational-AI/Main.html)
+
+### 2019
 - [NLP for Conversational AI @ ACL 2019](https://sites.google.com/view/nlp4convai/)
 - [Search-Oriented Conversational AI @ WWW 2019](https://scai.info/www2019/)
 - [Search-Oriented Conversational AI @ IJCAI 2019](https://scai.info/ijcai2019/)
@@ -16,6 +21,8 @@
 - [Dagstuhl 2019 Seminar Conversational Search](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19461)
 - [3rd Conversational AI: Today's Practice and Tomorrow's Potential @ NeurIPS 2019](http://alborz-geramifard.com/workshops/neurips19-Conversational-AI/Main.html)
 - [user2agent 2019: 1st Workshop on User-Aware Conversational Agents @ IUI 2019](https://www.research.ibm.com/haifa/Workshops/user2agent2019/)
+
+### 2020
 - [Conversational Systems for E-Commerce Recommendations and Search @ WSDM 2020](https://wsdm-converse.github.io/)
 - [3rd International Workshop on Conversational Approaches to Information Retrieval (CAIR) @ CHIIR 2020](https://sites.google.com/view/cair-ws/cair-2020)
 - [Search-Oriented Conversational AI @ EMNLP 2020](https://scai.info/2020/cfp/)
@@ -23,7 +30,9 @@
 - [2nd International Conference on Conversational User Interfaces 2020](https://cui2020.com/)
 - [KDD Converse 2020: Workshop on Conversational Systems Towards Mainstream Adoption](https://conversekdd20.github.io/index.html)
 - [CUI@CSCW2020: Collaborating through Conversational User Interfaces](http://speech-interaction.org/CSCW2020/index.html)
-- [ACM Multimedia workshop Multimodal Conversational AI](https://sites.google.com/view/multimodal-conversational-ai/)
+- [ACM Multimedia 2020 workshop Multimodal Conversational AI](https://sites.google.com/view/multimodal-conversational-ai/)
+
+### 2021
 - [Workshop on Mixed-Initiative ConveRsatiOnal Systems (MICROS@ECIR2021)](https://micros2021.github.io/)
 - [CUI@IUI2021 workshop: Theoretical and Methodological Challenges in Intelligent Conversational User Interface Interactions](http://speechinteraction.org/IUI2021/)
 - [Conversational User Interfaces Conference (CUI 2021)](https://www.conversationaluserinterfaces.org/2021/)
