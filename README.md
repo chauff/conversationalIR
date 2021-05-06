@@ -39,6 +39,7 @@
 - [CUI@IUI2021 workshop: Theoretical and Methodological Challenges in Intelligent Conversational User Interface Interactions](http://speechinteraction.org/IUI2021/)
 - [Conversational User Interfaces Conference (CUI 2021)](https://www.conversationaluserinterfaces.org/2021/)
 - [Future Conversations 2021 workshop at CHIIR 2021](https://sites.google.com/view/cair-ws/future-conversations21)
+- [Let's Talk About CUIs: Putting Conversational User Interface Design Into Practice (@CHI2021)](http://www.speechinteraction.org/CHI2021/)
 
 ## Research themes
 
