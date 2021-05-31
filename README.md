@@ -40,6 +40,7 @@
 - [Conversational User Interfaces Conference (CUI 2021)](https://www.conversationaluserinterfaces.org/2021/)
 - [Future Conversations 2021 workshop at CHIIR 2021](https://sites.google.com/view/cair-ws/future-conversations21)
 - [Let's Talk About CUIs: Putting Conversational User Interface Design Into Practice (@CHI2021)](http://www.speechinteraction.org/CHI2021/)
+- [SCAI QReCC 21 Conversational Question Answering Challenge](https://scai.info/scai-qrecc/) as part of the 6th [SCAI workshop](https://scai.info/)
 
 ## Research themes
 
