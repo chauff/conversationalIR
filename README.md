@@ -63,6 +63,8 @@ Interestingly, if you check out the [report published about the Dagstuhl Convers
 - Common conversational community prototype
 
 ## Relevant datasets/benchmarks 🗂 and leaderboards 🚴
+- 🚴 [XOR-TyDi QA](https://nlp.cs.washington.edu/xorqa/)
+  - "XOR-TyDi QA brings together for the first time information-seeking questions, open-retrieval QA, and multilingual QA to create a multilingual open-retrieval QA dataset that enables cross-lingual answer retrieval. It consists of questions written by information-seeking native speakers in 7 typologically diverse languages and answer annotations that are retrieved from multilingual document collections."  
 - 🚴 [Leaderboard for multi-turn response selection](https://github.com/JasonForJoy/Leaderboards-for-Multi-Turn-Response-Selection)
   - "Multi-turn response selection in retrieval-based chatbots is a task which aims to select the best-matched response from a set of candidates, given the context of a conversation. This task is attracting more and more attention in academia and industry. However, no one has maintained a leaderboard and a collection of popular papers and datasets yet. The main objective of this repository is to provide the reader with a quick overview of benchmark datasets and the state-of-the-art studies on this task, which serves as a stepping stone for further research."
 - 🚴 [Papers with code leaderboard for conversational response selection](https://paperswithcode.com/task/conversational-response-selection)  
