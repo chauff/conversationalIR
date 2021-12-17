@@ -43,6 +43,9 @@
 - [SCAI QReCC 21 Conversational Question Answering Challenge](https://scai.info/scai-qrecc/) as part of the 6th [SCAI workshop](https://scai.info/)
 - [3rd NLP for Conversational AI Workshop @ EMNLP 2021](https://sites.google.com/view/3rdnlp4convai/)
 
+### 2022
+- When Creative AI Meets Conversational AI @ COLING 2022 (no website yet)
+
 ## Research themes
 
 This categorization was created in a bottom-up manner based on the 300+ papers accepted by the workshops/conferences listed above (up to and including the MICROS 2021 workshop). Each paper was included in only one category or sub-category. This is of course purely subjective; ask 10 different researchers to come up with categories and you get 10 different results ...
