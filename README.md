@@ -45,6 +45,7 @@
 
 ### 2022
 - When Creative AI Meets Conversational AI @ COLING 2022 (no website yet)
+- 7th [SCAI workshop](https://scai.info/) @ SIGIR 2022
 
 ## Research themes
 
