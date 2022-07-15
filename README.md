@@ -44,7 +44,9 @@
 - [3rd NLP for Conversational AI Workshop @ EMNLP 2021](https://sites.google.com/view/3rdnlp4convai/)
 
 ### 2022
-- When Creative AI Meets Conversational AI @ COLING 2022 (no website yet)
+- [When Creative AI Meets Conversational AI Workshop @ COLING 2022](https://sites.google.com/view/cai-workshop-2022)
+- [7th Workshop on Search-Oriented Conversational Artificial Intelligence @ SIGIR 2022](https://scai.info/)
+- [2nd Workshop on Mixed-Initiative ConveRsatiOnal Systems (MICROS) @ CIKM 2022](https://micros-workshop.github.io/)
 
 ## Research themes
 
