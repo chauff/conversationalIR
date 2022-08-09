@@ -47,6 +47,7 @@
 - [When Creative AI Meets Conversational AI Workshop @ COLING 2022](https://sites.google.com/view/cai-workshop-2022)
 - [7th Workshop on Search-Oriented Conversational Artificial Intelligence @ SIGIR 2022](https://scai.info/)
 - [2nd Workshop on Mixed-Initiative ConveRsatiOnal Systems (MICROS) @ CIKM 2022](https://micros-workshop.github.io/)
+- [4th Workshop on NLP for Conversational AI @ ACL 2022](https://aclanthology.org/volumes/2022.nlp4convai-1/)
 
 ## Research themes
 
